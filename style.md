@@ -1,5 +1,6 @@
 # Style Guide
 
+
 This document outlines the required style guideline for contributing and writing code for the project.
 
 ## Names
